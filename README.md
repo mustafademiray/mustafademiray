@@ -1,5 +1,5 @@
 ### 💫 About Me:
-💻 I'm a software developer and blockchain researcher based in Istanbul, Turkiye. <br>📖 I'm currently working as a DevRel at LUKSO, meanwhile experimenting with smart contract development with Solidity and software development with Rust.<br>🔭 I'm learning about working with LLM agents and automating various things with AI.<br><br>
+💻 I'm a software developer and blockchain researcher based in Istanbul, Turkiye. <br>📖 I'm currently working as a DevRel at LUKSO, meanwhile experimenting with and Rust.<br>🔭 I'm learning about working with LLM agents and automating various things with AI.<br><br>
 
 Connect with me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mustafademiray) 
 <br>
